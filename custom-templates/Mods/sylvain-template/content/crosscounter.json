@@ -4,13 +4,6 @@
 		"minSize" : "s", 
 		"maxSize" : "s",
 		"players" : "2-4",
-		"settings" :
-			{
-			"heroes" :
-				{
-				"perPlayerOnMapCap" : 2
-				}
-			},
 		"zones" :
 		{
 			"1":
